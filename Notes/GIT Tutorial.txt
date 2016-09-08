@@ -16,5 +16,7 @@ git init (Initializes your directory).
 git add --all
 git commit -m "Update Message"
 git remote add origin https://github.com/login/PROJECT.git (Associate your repo with the repo on GitHub using the following command.)
+git remote -v (Verifies the new remote URL)
 git push -u origin master (adds all files in the current directory as well as all of its subdirectories to the commit index.)
 git reset <filename> (used to remove a file or files from the staging area).
+
