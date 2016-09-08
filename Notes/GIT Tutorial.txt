@@ -1,0 +1,20 @@
+git --version (used to know the version of git).
+git config --global user.name "Jerry Mouse" (used to set up git username).
+git config --global user.email "jerry@tutorialspoint.com" (used to setup enail address).
+git config --global branch.autosetuprebase always (avoid merge commits for pulling).
+git config --global color.ui true (commands for enabling color highlighting).
+git config --global color.status auto (commands for enabling color highlighting).
+git config --global color.branch auto (commands for enabling color highlighting).
+git config --global core.editor vim (configure a different editor).
+git config --global merge.tool vimdiff (setup default merging tool).
+git config --list (for listing GIT settings).
+
+git clone url (take the content of the project in github to your machine).
+git pull (get all changes from a project).
+
+git init (Initializes your directory).
+git add --all
+git commit -m "Update Message"
+git remote add origin https://github.com/login/PROJECT.git (Associate your repo with the repo on GitHub using the following command.)
+git push -u origin master (adds all files in the current directory as well as all of its subdirectories to the commit index.)
+git reset <filename> (used to remove a file or files from the staging area).

@@ -1,0 +1,13 @@
+Office
+Reinventing Productivity - Office 365
+>>>Reinventing productivity for the digital transformation (collaboration,mobility and trust).
+>>>Components of office 365 (The most complete, secure cloud productivity service).
+	>>> Authoring {Word, Excel, Powerpoint and One Note}.{Onenote is like google keep where you write your documents and retrive them
+	    later}.{For office 365, you have 5 licences per licence}.
+	>>> Mail and Social {Outlook, Exchange, Yammer}.
+	>>> Sites and Content Management {OneDriev, Sharepoint, Delve}.
+	>>> Chat, Meetings and Voice {Skype for Business}.
+>>>EMS {Enterprise Mobility Suite} - Enables you have a view of your whole environment.
+
+Dimension data: Systems Management with System Center Configuration Manager (SCCM)
+>>>
